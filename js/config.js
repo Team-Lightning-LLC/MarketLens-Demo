@@ -41,7 +41,7 @@ const CONFIG = {
     "Scenario Modeling": [
       "Risk Modeling",
       "Industry Consolidation: M&A",
-      "Monetary Policy & Interest Rate"
+      "Monetary Policy & Interest Rate Changes"
     ],
     
     "Company Insights": [
