@@ -39,7 +39,7 @@ const CONFIG = {
     ],
     
     "Scenario Modeling": [
-      "Risk Correlation Study",
+      "Risk Modeling",
       "Industry Consolidation: M&A",
       "Monetary Policy & Interest Rate"
     ],
